@@ -1,8 +1,3 @@
-/* NAME : ROHIT GAIROLA
-   SECTION : F
-   STUDENT ID : 19011357
-   COURSE : B.TECH(CSE)
-*/
 
 // TIC-TAC-TOE mini project
 
